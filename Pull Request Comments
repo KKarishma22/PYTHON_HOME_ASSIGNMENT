@@ -1,0 +1,21 @@
+Here are 10 things i like about your code and thought are worth mentioning!
+- The markdown cells are well-organized and provide clear headings and descriptions for each section of the notebook.
+- The code is well-commented, making it easy to understand the purpose and functionality of each part.
+- The function `locate_mri_data` is well-defined with clear parameters and a detailed docstring explaining its purpose.
+- The use of `os.walk` to locate MRI files is efficient and effective.
+- The code for loading and visualizing MRI data using `nibabel` and `nilearn` is straightforward and well-structured.
+- The histogram nicely visualizes the distribution of values in the functional data.
+- The inclusion of a humorous GIF at the end adds a personal touch and makes the notebook more engaging.
+- The overall structure of the notebook flows logically from data loading to visualization and analysis.
+- The use of `matplotlib` for plotting is well-executed, with clear titles and labels for the histogram.
+- The interactive element for setting the root directory is a good idea, making the code more flexible for different users.
+
+
+
+Here are 3 additional suggestions for improvement:
+- Adding unit tests for the functions, especially `locate_mri_data`, would help ensure the code works as expected and make it easier to maintain.
+- Including a markdown cell with all the necessary Python packages would make it easier for others to set up the environment and run the notebook.
+- Providing more detailed comments or markdown cells explaining the visualization parameters (e.g., `cut_coords`, `cmap`, `threshold`) would help users understand how to customize the plots.
+
+
+All in all you did a great work! WELL DONE!
